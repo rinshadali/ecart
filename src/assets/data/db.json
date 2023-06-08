@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "Legend Football Shoes ",
+      "categoyId": 1,
+      "description": "Upper : Best Quality Light Weight PU with Leather.",
+      "price": 800,
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/7ZwJWd34/8-legend-sega-by-star-impct-silver-original-imaghefputehzhae.webp",
+      "rating": 4.2,
+      "review": 200,
+      "warranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "NIVIA G-2020 Rubber Volleyball",
+      "categoyId": 2,
+      "description": "CORE High air retention butyl bladder.",
+      "price": 2000,
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/1tqpQ6f1/500-nivia-volleyball-10-5-5-0-12345-volleyball-aaa-sports-original-imag8cxc4gbzzge7.webp",
+      "rating": 4.5,
+      "review": 45,
+      "warranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "MRF Genius Genius Kashmir Willow Cricket Bat ",
+      "categoyId": 3,
+      "description": "Traditionally shaped and styled for maximum stability while playing shots.",
+      "price": 1548,
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/K8TffF9v/800-genius-short-handle-vk-18-grade-1-mrf-genius-original-imag7bdtk8gywpfn.webp",
+      "rating": 4.1,
+      "review": 45,
+      "warranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Cosco Cricket Ball",
+      "categoyId": 3,
+      "description": "Indulging in a Cricket game for hours can help in refreshing your good spirits and energy.",
+      "price": 400,
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/X7kdYJD5/cosco-cricket-ball-cricket-original-imadnzagddyshqnw.webp",
+      "rating": 4.1,
+      "review": 67,
+      "warranty": 1
+    },
+    {
+      "id": 7,
+      "productName": "Appeal 2.0",
+      "categoyId": 2,
+      "description": "Men Printed Cotton Blend Straight Kurta",
+      "price": "1039",
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/9XpzM2NS/3-bd-5926rs-nivia-red-silver-original-imagknbqzsmbthsj.webp",
+      "rating": 4.1,
+      "review": 45,
+      "warranty": 1
+    },
+    {
+      "id": 8,
+      "productName": "UNIQ T-shirt",
+      "categoyId": 3,
+      "description": "Men Printed Cotton Blend Straight Kurta",
+      "price": 319,
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/bJnCTL4D/9-10-years-1f-indnavyrahul-rjm-original-imaggff7uz3gmss2.webp",
+      "rating": 4,
+      "review": 40,
+      "warranty": 1
+    },
+    {
+      "id": 9,
+      "productName": "TRIPR",
+      "categoyId": 1,
+      "description": "Men Printed Cotton Blend Straight Kurta",
+      "price": 2000,
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/tJdFb6hd/2068bab3181ff31c9bb60ab196934348.jpg",
+      "rating": 4.3,
+      "review": 45,
+      "warranty": 1
+    },
+    {
+      "id": 10,
+      "productName": " Messi Football Jersey ",
+      "categoyId": 1,
+      "description": "The Replica Jersey is finally here and here is your chance to represent your favorite team",
+      "price": 459,
+      "Is available": true,
+      "productImage": "https://i.postimg.cc/WpXry0jh/51oh-Uh-J-e0-L.jpg",
+      "rating": 4.4,
+      "review": 45,
+      "warranty": 1
+    },
+    {
+      "id": "11",
+      "productName": "Cricket stump",
+      "categoyId": "3",
+      "description": "nthelokke",
+      "price": "250",
+      "Is_available": "true",
+      "productImage": "https://i.postimg.cc/k5x5yQJ1/ninja-cricket-wicket-set-ideal-for-seniors-31-length-wooden-original-imafnzxqngnj7kyf.webp",
+      "rating": "4",
+      "review": "20",
+      "warranty": "4"
+    }
+  ]
+}

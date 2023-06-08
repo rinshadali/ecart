@@ -1,0 +1,38 @@
+-lazy loading technique - used to load heavy traffic pages
+
+-module creation
+
+    ng g module moduleName
+
+-lazy loaded module creation
+
+    ng g module moduleName --route moduleName --module rootmoduleName
+
+json server install
+    npm i --save json-server
+
+run 
+    npx json-server --watch db.json --port 3000
+
+
+
+football    -1
+volleyball  -2
+cricket     -3
+
+
+Access data from component path
+--------------------------------
+
+ActivatedRoute      -its a class
+params              -a method
+
+create pipe
+----------
+    ng g pipe pipename
+
+
+trim()-whitespace removing method
+
+BehaviourSubject in angular
+---------------------------

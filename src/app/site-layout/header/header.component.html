@@ -1,0 +1,35 @@
+  <!-- Navigation-->
+  <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+    <div class="container px-4 px-lg-5">
+        <a class="navbar-brand text-light b" href="">SPORTify</a>
+        <i class="fa-regular fa-futbol fa-3x"></i>
+        <!-- <i class="fa-solid fa-store fa-3x"></i> -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                <li class="nav-item p-2">
+            <form>
+                    <input (keyup)="search($event)" [(ngModel)]="searchterm" id="s1" name="se1" type="text" placeholder="search Item">
+                    <button class="btn btn-outline-dark">search</button>
+            </form>
+                </li>
+                <li class="nav-item"><a class="nav-link text-white" href="product/add-product">Add new poduct</a></li>
+            </ul>
+            <form class="d-flex">
+                <button class="btn btn-outline-light" type="submit">
+                    <i class="bi-cart-fill me-1"></i>
+                    Cart
+                    <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+                </button>
+            </form>
+        </div>
+    </div>
+</nav>
+<!-- Header-->
+<header class="py-5"  style="background-image: url(https://i.postimg.cc/ZqXcCkwK/soccer-sport-concept-two-players-action-to-kick-ball-football-game-dark-background-lights-bokeh-jump.jpg); ">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="text-center text-light">
+            <h1 class="display-4 ">Shop With SPORTify</h1>
+        </div>
+    </div>
+</header>
